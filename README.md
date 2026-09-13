@@ -32,7 +32,7 @@ retail_dashboard.pbix   Power BI dashboard
 ```
 
 ## Dashboard preview
-*(add a screenshot of your Power BI dashboard here — see instructions below)*
+![Power BI Dashboard](powerbi.png)
 
 ## Dataset
 [Superstore Dataset (Kaggle)](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
